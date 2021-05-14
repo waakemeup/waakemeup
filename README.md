@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ^_^大一菜鸡，想成为Frontend developer
+- 大一菜鸡
 - 🔭 I’m currently working on sleeping
 - 🌱 I’m currently learning Vue3.0 and nodejs
 - 啥都不会，正在学习(摸鱼)中  
