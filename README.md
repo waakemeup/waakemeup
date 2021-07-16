@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- first year of a college
 - 🔭 I’m currently working on sleeping
 - 🌱 I’m currently learning Vue3.0,NodeJS
 - I don't know anything but I'm trying  
