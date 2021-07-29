@@ -1,4 +1,4 @@
-### Hi,my name is waakemeup,a little boy dearming to be a frontend developer 
+### Hi,my name is waakemeup,a little boy dreaming to be a frontend developer 
 
 - 🔭 I’m currently working on sleeping
 - 🌱 I’m currently learning Vue3.0,NodeJS and ReactJS
